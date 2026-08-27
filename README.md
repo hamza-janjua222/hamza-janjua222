@@ -41,5 +41,6 @@ A C++ traffic violation management system built entirely on hand-implemented dat
 
 ### Currently
 
-🔭 Building toward an ML Engineering career — one deliberate project at a time, not tutorial clones
+🔭 Building toward an ML Engineering career 
+
 📚 Working through core ML/data science fundamentals alongside my degree
