@@ -1,5 +1,7 @@
 <div align="center">
 
+![](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:2E2E2E,100:C0C0C0&height=120&section=header&animation=fadeIn)
+
 # Hi, I'm Hamza 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=BS+IT+Student+%40+Bahria+University;Building+Real+Systems+From+The+Ground+Up;C%2B%2B+%26+Data+Structures+Now;ML+Engineering+Next)](https://git.io/typing-svg)
@@ -55,16 +57,10 @@ A neon-themed memory-matching game built with vanilla HTML, CSS, and JavaScript.
 
 ---
 
-## GitHub Activity
-
-![](https://streak-stats.demolab.com?user=hamza-janjua222&theme=dark&hide_border=true&background=00000000)
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=hamza-janjua222&theme=react-dark&hide_border=true&bg_color=00000000)
-
----
-
 <div align="center">
 
 **[GitHub](https://github.com/hamza-janjua222)**
+
+![](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:2E2E2E,100:C0C0C0&height=100&section=footer)
 
 </div>
