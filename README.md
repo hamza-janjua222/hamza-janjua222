@@ -1,14 +1,12 @@
 <div align="center">
 
-![](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:2E2E2E,100:C0C0C0&height=120&section=header&animation=fadeIn)
-
 # Hi, I'm Hamza 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=BS+IT+Student+%40+Bahria+University;Building+Real+Systems+From+The+Ground+Up;C%2B%2B+%26+Data+Structures+Now;ML+Engineering+Next)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=C0C0C0&center=true&vCenter=true&width=560&lines=BS+IT+Student+%40+Bahria+University;Building+Real+Systems+From+The+Ground+Up;C%2B%2B+%26+Data+Structures+Now;ML+Engineering+Next)](https://git.io/typing-svg)
 
 </div>
 
----
+![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif)
 
 ## About Me
 
@@ -18,7 +16,7 @@
 - 📈 Currently learning **Python**, working toward **Machine Learning Engineering**
 - 🧠 I care more about understanding *why* something works than getting it to just run
 
----
+![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif)
 
 ## What I'm Working With
 
@@ -38,7 +36,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
----
+![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif)
 
 ## Featured Projects
 
@@ -48,19 +46,17 @@ A C++ traffic violation management system built entirely on hand-implemented dat
 **[Cyberpunk Retro 8-bit Card Game](https://github.com/hamza-janjua222/CyberPunk-Retro-8-bit-Card-Game)**
 A neon-themed memory-matching game built with vanilla HTML, CSS, and JavaScript. Core logic — shuffling, match detection, timing — built from scratch, with keyboard accessibility and screen-reader support layered on top.
 
----
+![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif)
 
 ## Currently
 
 🔭 Building toward an ML Engineering career
 📚 Working through core ML/data science fundamentals alongside my degree
 
----
+![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif)
 
 <div align="center">
 
 **[GitHub](https://github.com/hamza-janjua222)**
-
-![](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:2E2E2E,100:C0C0C0&height=100&section=footer)
 
 </div>
