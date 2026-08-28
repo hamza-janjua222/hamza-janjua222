@@ -2,9 +2,7 @@
 
 # Hi, I'm Hamza 👋
 
-**BS Information Technology @ Bahria University Islamabad**
-
-Building real systems from the ground up — HTML, JavaScript, CSS, C++ & data structures now, ML engineering next.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=BS+IT+Student+%40+Bahria+University;Building+Real+Systems+From+The+Ground+Up;C%2B%2B+%26+Data+Structures+Now;ML+Engineering+Next)](https://git.io/typing-svg)
 
 </div>
 
@@ -54,6 +52,14 @@ A neon-themed memory-matching game built with vanilla HTML, CSS, and JavaScript.
 
 🔭 Building toward an ML Engineering career
 📚 Working through core ML/data science fundamentals alongside my degree
+
+---
+
+## GitHub Activity
+
+![](https://streak-stats.demolab.com?user=hamza-janjua222&theme=dark&hide_border=true&background=00000000)
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=hamza-janjua222&theme=react-dark&hide_border=true&bg_color=00000000)
 
 ---
 
